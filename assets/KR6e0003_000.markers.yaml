@@ -1,0 +1,255 @@
+canonical_identifier: bkk:krp/KR6e0003/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6e0003_T_000-0013b19, ed: T, 'n': 0013b19}
+  - {type: line-break, offset: 0, content: '', id: KR6e0003_T_000-0013b20, ed: T, 'n': 0013b20}
+  - {type: line-break, offset: 0, content: '', id: KR6e0003_T_000-0013b21, ed: T, 'n': 0013b21}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6e0003_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6e0003_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6e0003_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6e0003_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '7', id: KR6e0003_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '3', id: KR6e0003_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '2', id: KR6e0003_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6e0003_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6e0003_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6e0003_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6e0003_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6e0003_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6e0003_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6e0003_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '2', id: KR6e0003_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '7', id: KR6e0003_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '8', id: KR6e0003_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: ']', id: KR6e0003_T_000-bkkpn18}
+  - {type: line-break, offset: 0, content: '', id: KR6e0003_T_000-0013b22, ed: T, 'n': 0013b22}
+  - {type: variant, offset: 76, length: 1, content: 加, 麗-CB: 伽K47n1506_p0076a06}
+  - {type: variant, offset: 94, length: 1, content: 勝K47n1506_p0025a06, 大: 進}
+  - {type: variant, offset: 95, length: 1, content: 進K47n1506_p0025a06, 大: 勝}
+  - {type: variant, offset: 227, length: 1, content: 亦, 麗-CB: 以K47n1506_p0009a13}
+  - {type: variant, offset: 259, length: 1, content: 說K47n1506_p0032a15, 大: ''}
+  - {type: variant, offset: 305, length: 1, content: 誦K47n1506_p0025a17, 大: ''}
+  - {type: variant, offset: 320, length: 1, content: 救K47n1506_p0076a17, 大: ''}
+  - {type: variant, offset: 485, length: 3, content: 得益略, 麗-CB: 略得益K47n1506_p0058c27}
+  - {type: variant, offset: 631, length: 1, content: 更K47n1506_p0059a07, 大: ''}
+  - {type: variant, offset: 645, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 654, length: 1, content: 人K47n1506_p0067b08, 大: 入}
+  - {type: variant, offset: 674, length: 1, content: 有, 麗-CB: K47n1506_p0025b09}
+  - {type: variant, offset: 678, length: 0, content: '', 麗-CB: 耳愧文K47n1506_p0025b09}
+  - {type: variant, offset: 679, length: 1, content: 請K47n1506_p0018b09, 大: ''}
+  - {type: variant, offset: 684, length: 1, content: 四K47n1506_p0018b10, 大: ''}
+  - {type: variant, offset: 687, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 695, length: 1, content: 諦K47n1506_p0042a10, 大: ''}
+  - {type: variant, offset: 742, length: 1, content: 己T35n1733_p0278a07, 大: 已}
+  - {type: variant, offset: 764, length: 2, content: 深淺K47n1506_p0001b15, 大: 淺深}
+  - {type: variant, offset: 827, length: 1, content: 化, 麗-CB: K47n1506_p0042a16}
+  - {type: variant, offset: 925, length: 0, content: '', 麗-CB: 取K47n1506_p0025b22}
+  - {type: variant, offset: 1022, length: 1, content: 放K47n1506_p0018b27, 大: ''}
+  - {type: variant, offset: 1025, length: 1, content: 答K47n1506_p0059a27, 大: ''}
+  - {type: variant, offset: 1028, length: 1, content: 義, 麗-CB: K47n1506_p0018c01}
+  - {type: variant, offset: 1171, length: 0, content: '', 麗-CB: 生K47n1506_p0059b08}
+  - {type: variant, offset: 1178, length: 1, content: 位, 麗-CB: 種K47n1506_p0018c08}
+  - {type: variant, offset: 1218, length: 1, content: 功, 麗-CB: 巧K47n1506_p0009c09}
+  - {type: variant, offset: 1228, length: 1, content: 界K47n1506_p0009c09, 大: ''}
+  - {type: variant, offset: 1248, length: 1, content: 等K47n1506_p0042b10, 大: ''}
+  - {type: variant, offset: 1399, length: 0, content: K47n1506_p0067c19, 大: 即}
+  - {type: variant, offset: 1449, length: 1, content: 道K47n1506_p0042b20, 大: ''}
+  - {type: variant, offset: 1519, length: 1, content: 辦, 大: 辯}
+  - {type: variant, offset: 1623, length: 0, content: '', 麗-CB: 左K47n1506_p0033a03}
+  - {type: variant, offset: 1626, length: 1, content: 共K47n1506_p0059c04, 大: ''}
+  - {type: variant, offset: 1642, length: 1, content: 地K47n1506_p0059c04, 大: ''}
+  - {type: variant, offset: 1695, length: 1, content: 已, 大: 巳}
+  - {type: variant, offset: 1843, length: 2, content: 十八, 麗-CB: K47n1506_p0010a13}
+  - {type: variant, offset: 1852, length: 0, content: K47n1506_p0026a14, 大: 位}
+  - {type: variant, offset: 2007, length: 1, content: 王K47n1506_p0068a22, 大: ''}
+  - {type: variant, offset: 2060, length: 1, content: 順K47n1506_p0042c24, 大: ''}
+  - {type: variant, offset: 2097, length: 1, content: 分, 麗-CB: 有K47n1506_p0068a27}
+  - {type: variant, offset: 2167, length: 1, content: 種, 麗-CB: 種種K47n1506_p0019b05}
+  - {type: variant, offset: 2240, length: 1, content: 也, 麗-CB: K47n1506_p0026b07}
+  - {type: variant, offset: 2251, length: 1, content: 上K47n1506_p0026b07, 大: ''}
+  - {type: variant, offset: 2296, length: 0, content: '', 麗-CB: 住K47n1506_p0010b09}
+  - {type: variant, offset: 2407, length: 1, content: 初, 麗-CB: 一K47n1506_p0026b15}
+  - {type: variant, offset: 2519, length: 1, content: 二X03n0212_p0106a13, 大: 三}
+  - {type: variant, offset: 2554, length: 1, content: 三K47n1506_p0077b21, 大: 二}
+  - {type: variant, offset: 2570, length: 1, content: 賢K47n1506_p0060a24, 大: ''}
+  - {type: variant, offset: 2601, length: 1, content: 門K47n1506_p0002b27, 大: 世}
+  - {type: variant, offset: 2621, length: 1, content: 中, 甲: 下}
+  - {type: variant, offset: 2654, length: 1, content: 因, 甲: 內}
+  - {type: variant, offset: 2714, length: 0, content: '', 麗-CB: 三K47n1506_p0077c02}
+  - {type: variant, offset: 2717, length: 1, content: 初, 麗-CB: K47n1506_p0077c02}
+  - {type: variant, offset: 2743, length: 1, content: 齊K47n1506_p0002c07, 大: ''}
+  - {type: variant, offset: 2865, length: 1, content: 位K47n1506_p0019c12, 大: ''}
+  - {type: variant, offset: 2881, length: 1, content: 文K47n1506_p0060b13, 大: 分}
+  - {type: variant, offset: 2888, length: 0, content: K47n1506_p0026c12, 大: 來}
+  - {type: variant, offset: 3108, length: 1, content: 內K47n1506_p0019c24, 大: ''}
+  - {type: variant, offset: 3160, length: 1, content: 是K47n1506_p0010c25, 大: ''}
+  - {type: variant, offset: 3204, length: 1, content: 厚, 甲: 序}
+  - {type: variant, offset: 3290, length: 1, content: 令K47n1506_p0034a05, 大: ''}
+  - {type: variant, offset: 3336, length: 1, content: 利K47n1506_p0069a08, 大: ''}
+  - {type: variant, offset: 3366, length: 1, content: 以, 甲: 知}
+  - {type: variant, offset: 3382, length: 1, content: 見K47n1506_p0043c09, 大: ''}
+  - {type: variant, offset: 3477, length: 1, content: 同K47n1506_p0020a16, 大: ''}
+  - {type: variant, offset: 3610, length: 1, content: 之K47n1506_p0078a20, 大: 二}
+  - {type: variant, offset: 3630, length: 0, content: K47n1506_p0069a22, 大: 一}
+  - {type: variant, offset: 3643, length: 1, content: 知K47n1506_p0053a22, 大: 智}
+  - {type: variant, offset: 3698, length: 1, content: 先, 麗-CB: 光K47n1506_p0003b01}
+  - {type: variant, offset: 3714, length: 1, content: 聞, 甲: 遇}
+  - {type: variant, offset: 3742, length: 1, content: 下K47n1506_p0053a27, 大: 不}
+  - {type: variant, offset: 3773, length: 1, content: 我K47n1506_p0044a01, 大: ''}
+  - {type: variant, offset: 3776, length: 0, content: '', 麗-CB: 相K47n1506_p0003b05}
+  - {type: variant, offset: 3966, length: 1, content: 就, 甲: 熟}
+  - {type: variant, offset: 3990, length: 1, content: 唯K47n1506_p0027b14, 大: 准}
+  - {type: variant, offset: 4024, length: 0, content: '', 麗-CB: 便K47n1506_p0020b17}
+  - {type: variant, offset: 4029, length: 1, content: 芽, 甲: 互}
+  - {type: variant, offset: 4053, length: 1, content: 無, 甲: 文}
+  - {type: variant, offset: 4088, length: 1, content: 處K47n1506_p0078b17, 大: ''}
+  - {type: variant, offset: 4273, length: 1, content: 辦X45n0753_p0046a12, 大: 辯}
+  - {type: variant, offset: 4308, length: 1, content: 以, 麗-CB: K47n1506_p0034c02}
+  - {type: variant, offset: 4496, length: 1, content: 諮K47n1506_p0011c12, 大: ''}
+  - {type: variant, offset: 4579, length: 1, content: 具, 麗-CB: 且K47n1506_p0027c16}
+  - {type: variant, offset: 4679, length: 0, content: '', 麗-CB: 因緣K47n1506_p0044b20}
+  - {type: variant, offset: 4743, length: 1, content: 向K47n1506_p0027c25, 大: ''}
+  - {type: variant, offset: 4801, length: 1, content: 咎, 甲: 各}
+  - {type: variant, offset: 4821, length: 0, content: '', 麗-CB: 劫中K47n1506_p0078c26}
+  - {type: variant, offset: 4826, length: 1, content: 住, 甲: 位}
+  - {type: variant, offset: 4851, length: 1, content: 二, 麗-CB: 四K47n1506_p0021a05}
+  - {type: variant, offset: 5049, length: 1, content: 列K47n1506_p0004a15, 大: 別}
+  - {type: variant, offset: 5105, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 5182, length: 1, content: 劫K47n1506_p0054a18, 大: 劫}
+  - {type: variant, offset: 5200, length: 1, content: 二X03n0212_p0049c10T35n1732_p0026a08, 大: 三}
+  - {type: variant, offset: 5226, length: 1, content: 者，K47n1506_p0012a22, 大: 也、}
+  - {type: variant, offset: 5227, length: 1, content: 赴, 甲: 起}
+  - {type: variant, offset: 5250, length: 3, content: 始者，為K47n1506_p0012a23, 大: ''}
+  - {type: variant, offset: 5316, length: 2, content: 別佛, 麗-CB: 引K47n1506_p0021b01}
+  - {type: variant, offset: 5456, length: 1, content: 解K47n1506_p0021b08, 大: 住}
+  - {type: variant, offset: 5479, length: 0, content: '', 麗-CB: 之K47n1506_p0021b09}
+  - {type: variant, offset: 5489, length: 1, content: 乃, 麗-CB: 及K47n1506_p0021b10}
+  - {type: variant, offset: 5524, length: 1, content: 四K47n1506_p0045a08, 大: 三}
+  - {type: variant, offset: 5580, length: 1, content: 十K47n1506_p0054c12, 大: 卜}
+  - {type: variant, offset: 5668, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 5719, length: 1, content: 亦, 麗-CB: K47n1506_p0062a20}
+  - {type: variant, offset: 5736, length: 0, content: K47n1506_p0079b18, 大: 利}
+  - {type: variant, offset: 5815, length: 1, content: 迦K47n1506_p0004b26, 大: 伽}
+  - {type: variant, offset: 5818, length: 1, content: 蟒K47n1506_p0004b26, 大: 莽}
+  - {type: variant, offset: 5820, length: 0, content: K47n1506_p0004b26, 大: 也}
+  - {type: variant, offset: 5824, length: 1, content: 時, 甲: 昧}
+  - {type: variant, offset: 5890, length: 1, content: 穀, 甲: 繫}
+  - {type: variant, offset: 5897, length: 1, content: 穀, 甲: 繫}
+  - {type: variant, offset: 5957, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 6023, length: 1, content: 二K47n1506_p0070c07, 大: 三}
+  - {type: variant, offset: 6028, length: 0, content: '', 麗-CB: 二K47n1506_p0070c08}
+  - {type: variant, offset: 6031, length: 1, content: 合K47n1506_p0021c11, 大: 今}
+  - {type: variant, offset: 6041, length: 1, content: 心K47n1506_p0070c08, 大: ''}
+  - {type: variant, offset: 6235, length: 1, content: 住, 麗-CB: 作K47n1506_p0070c18}
+  - {type: variant, offset: 6332, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 6376, length: 1, content: 諸, 甲: 請}
+  - {type: variant, offset: 6634, length: 0, content: '', 麗-CB: 歎德K47n1506_p0062c12}
+  - {type: variant, offset: 6802, length: 2, content: 幻不, 甲: 約小}
+  - {type: variant, offset: 6836, length: 1, content: 德K47n1506_p0005a23, 大: ''}
+  - {type: variant, offset: 6844, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 6860, length: 0, content: '', 麗-CB: 次K47n1506_p0005a24}
+  - {type: variant, offset: 6863, length: 3, content: 大論》引, 甲: 文誦列}
+  - {type: variant, offset: 6887, length: 0, content: '', 麗-CB: 修K47n1506_p0080a22}
+  - {type: variant, offset: 6888, length: 1, content: 二K47n1506_p0055a23, 大: 二}
+  - {type: variant, offset: 6888, length: 1, content: 修, 麗-CB: K47n1506_p0080a22}
+  - {type: variant, offset: 6933, length: 1, content: 其, 麗-CB: K47n1506_p0036a25}
+  - {type: variant, offset: 6967, length: 1, content: 化K47n1506_p0022b05, 大: 佛}
+  - {type: variant, offset: 6967, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 7006, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 7131, length: 0, content: K47n1506_p0080b07, 大: 仰}
+  - {type: variant, offset: 7170, length: 1, content: 共, 甲: 果}
+  - {type: variant, offset: 7224, length: 1, content: 來, 甲: 成}
+  - {type: variant, offset: 7247, length: 1, content: 二K47n1506_p0055b14, 大: 一}
+  - {type: variant, offset: 7264, length: 1, content: 總K47n1506_p0029b16, 大: ''}
+  - {type: variant, offset: 7473, length: 1, content: 語K47n1506_p0005c01, 大: ''}
+  - {type: variant, offset: 7614, length: 0, content: '', 麗-CB: 初局K47n1506_p0080c05}
+  - {type: variant, offset: 7926, length: 1, content: 其, 甲: 滿足修者約位說觀修者約行體說其}
+  - {type: variant, offset: 7971, length: 1, content: 唯K47n1506_p0046b23, 大: ''}
+  - {type: variant, offset: 8096, length: 2, content: 智法K47n1506_p0081a02, 大: 法，智}
+  - {type: variant, offset: 8153, length: 1, content: 辯K47n1506_p0063c07, 大: ''}
+  - {type: variant, offset: 8210, length: 1, content: 所K47n1506_p0072a09, 大: ''}
+  - {type: variant, offset: 8235, length: 1, content: 神K47n1506_p0072a10, 大: 佛}
+  - {type: variant, offset: 8278, length: 0, content: '', 麗-CB: 進K47n1506_p0063c14}
+  - {type: variant, offset: 8292, length: 2, content: 初釋, 麗-CB: 釋初K47n1506_p0081a12}
+  - {type: variant, offset: 8437, length: 1, content: 多K47n1506_p0014a24, 大: ''}
+  - {type: variant, offset: 8505, length: 1, content: 文K47n1506_p0030a22, 大: ''}
+  - {type: variant, offset: 8522, length: 1, content: 用K47n1506_p0030a23, 大: ''}
+  - {type: variant, offset: 8547, length: 1, content: 平K47n1506_p0063c27, 大: ''}
+  - {type: variant, offset: 8552, length: 1, content: 十K47n1506_p0063c27, 大: ''}
+  - {type: variant, offset: 8599, length: 1, content: 隨K47n1506_p0064a03, 大: 隋}
+  - {type: variant, offset: 8629, length: 0, content: '', 麗-CB: 輪K47n1506_p0037b02}
+  - {type: variant, offset: 8640, length: 4, content: 揀法取時K47n1506_p0030b03, 大: 法耳}
+  - {type: variant, offset: 8674, length: 1, content: 三X03n0212_p0062b12, 大: 二}
+  - {type: variant, offset: 8681, length: 2, content: 之異K47n1506_p0047a04, 大: 異之}
+  - {type: variant, offset: 8716, length: 0, content: '', 麗-CB: 眾K47n1506_p0037b06}
+  - {type: variant, offset: 8772, length: 1, content: 緣K47n1506_p0047a09T45n1887Bp0749b24, 大: 綠}
+  - {type: variant, offset: 8840, length: 1, content: 苦K47n1506_p0023b20, 大: ''}
+  - {type: variant, offset: 8874, length: 1, content: 二X03n0212_p0130a19, 大: 三}
+  - {type: variant, offset: 8989, length: 4, content: 、三所詮義K47n1506_p0006b23, 大: ''}
+  - {type: variant, offset: 9004, length: 1, content: 辯K47n1506_p0006b24, 大: 辨}
+  - {type: variant, offset: 9102, length: 1, content: 六K47n1506_p0023c06, 大: ''}
+  - {type: variant, offset: 9160, length: 0, content: '', 麗-CB: 於K47n1506_p0056c08}
+  - {type: variant, offset: 9199, length: 1, content: 主K47n1506_p0047b03, 大: ''}
+  - {type: variant, offset: 9230, length: 1, content: 間K47n1506_p0081c05, 大: ''}
+  - {type: variant, offset: 9281, length: 1, content: 七, 甲: 解}
+  - {type: variant, offset: 9297, length: 1, content: 削, 麗-CB: 剩K47n1506_p0047b08}
+  - {type: variant, offset: 9322, length: 3, content: ，自他二K47n1506_p0023c17, 大: 二，自他}
+  - {type: variant, offset: 9356, length: 1, content: 位, 甲: 住}
+  - {type: variant, offset: 9377, length: 1, content: 音K47n1506_p0006c16, 大: ''}
+  - {type: variant, offset: 9377, length: 1, content: 位, 甲: 住}
+  - {type: variant, offset: 9398, length: 1, content: 下, 甲: 土}
+  - {type: variant, offset: 9512, length: 1, content: 八K47n1506_p0023c27, 大: ''}
+  - {type: variant, offset: 9642, length: 1, content: 二X03n0212_p0120c09, 大: 一}
+  - {type: variant, offset: 9695, length: 1, content: 下, 麗-CB: 不K47n1506_p0031a01}
+  - {type: variant, offset: 9702, length: 1, content: 偏K47n1506_p0015a07, 大: 遍}
+  - {type: variant, offset: 9721, length: 1, content: 力, 麗-CB: 方K47n1506_p0015a07}
+  - {type: variant, offset: 9750, length: 0, content: '', 麗-CB: 三念二K47n1506_p0073a05}
+  - {type: variant, offset: 9751, length: 2, content: 念、三, 麗-CB: K47n1506_p0073a05}
+  - {type: variant, offset: 9929, length: 1, content: 珞K47n1506_p0082a13, 大: ''}
+  - {type: variant, offset: 9935, length: 2, content: 依位K47n1506_p0031a13, 大: 位依}
+  - {type: variant, offset: 10008, length: 0, content: '', 麗-CB: 何K47n1506_p0007a20}
+  - {type: variant, offset: 10065, length: 1, content: 此K47n1506_p0047c19, 大: 之}
+  - {type: variant, offset: 10190, length: 0, content: X03n0212_p0110b24, 大: 二}
+  - {type: variant, offset: 10368, length: 1, content: 以K47n1506_p0048a07, 大: ''}
+  - {type: variant, offset: 10458, length: 1, content: 失K47n1506_p0038b12, 大: 共}
+  - {type: variant, offset: 10463, length: 1, content: 未, 甲: 生}
+  - {type: variant, offset: 10501, length: 1, content: 下K47n1506_p0073b16, 大: ''}
+  - {type: variant, offset: 10589, length: 1, content: 前K47n1506_p0065a21, 大: 別}
+  - {type: variant, offset: 10693, length: 1, content: 故K47n1506_p0031b24, 大: 也}
+  - {type: variant, offset: 10801, length: 1, content: 同K47n1506_p0038c02, 大: 曰}
+  - {type: variant, offset: 10817, length: 1, content: 為K47n1506_p0031c03, 大: ''}
+  - {type: variant, offset: 10882, length: 1, content: 能K47n1506_p0073c08, 大: ''}
+  - {type: variant, offset: 10891, length: 1, content: 顯, 麗-CB: K47n1506_p0073c08}
+  - {type: variant, offset: 10894, length: 0, content: '', 麗-CB: 顯K47n1506_p0073c08}
+  - {type: variant, offset: 10900, length: 1, content: 文K47n1506_p0073c09, 大: ''}
+  - {type: variant, offset: 11001, length: 0, content: '', 麗-CB: 結K47n1506_p0082c12}
+  - {type: variant, offset: 11029, length: 1, content: 十K47n1506_p0015c20, 大: 七}
+  - {type: variant, offset: 11223, length: 1, content: 約K47n1506_p0065b26, 大: ''}
+  - {type: variant, offset: 11248, length: 0, content: '', 麗-CB: 門K47n1506_p0065b27}
+  - {type: variant, offset: 11346, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 11769, length: 0, content: '', 麗-CB: 定K47n1506_p0008b01}
+  - {type: variant, offset: 11859, length: 1, content: 加, 麗-CB: K47n1506_p0008b05}
+  - {type: variant, offset: 11861, length: 1, content: 辨, 麗-CB: 辯K47n1506_p0008b05}
+  - {type: variant, offset: 11957, length: 1, content: 三K47n1506_p0039b06, 大: 二}
+  - {type: variant, offset: 12180, length: 1, content: 辨, 麗-CB: K47n1506_p0066a20}
+  - {type: variant, offset: 12184, length: 2, content: 時有K47n1506_p0066a20, 大: ''}
+  - {type: variant, offset: 12253, length: 0, content: '', 麗-CB: 在K47n1506_p0066a23}
+  - {type: variant, offset: 12255, length: 1, content: 也, 麗-CB: 閒K47n1506_p0066a24}
+  - {type: variant, offset: 12299, length: 1, content: 二K47n1506_p0074b25, 大: 三}
+  - {type: variant, offset: 12428, length: 0, content: '', 麗-CB: 無K47n1506_p0074c04}
+  - {type: variant, offset: 12448, length: 1, content: 今K47n1506_p0066b06, 大: 令}
+  - {type: variant, offset: 12460, length: 1, content: 名K47n1506_p0049b04, 大: □}
+  - {type: variant, offset: 12594, length: 0, content: K47n1506_p0039c11, 大: 禪}
+  - {type: variant, offset: 12599, length: 1, content: 禪K47n1506_p0039c11, 大: ''}
+  - {type: variant, offset: 13267, length: 1, content: 倒, 麗-CB: 側K47n1506_p0049c17}
+  - {type: variant, offset: 13339, length: 1, content: 世, 麗-CB: K47n1506_p0075a23}
+  - {type: variant, offset: 13602, length: 1, content: 詣K47n1506_p0075b09, 大: ''}
+  - {type: variant, offset: 13682, length: 1, content: 己, 大: 已}
+  - {type: variant, offset: 13861, length: 1, content: 契K47n1506_p0017c01, 大: ''}
+  - {type: variant, offset: 14053, length: 1, content: 曰K47n1506_p0040c03, 大: 云}
+  - {type: variant, offset: 14310, length: 1, content: 入K47n1506_p0040c15, 大: ''}
+  - {type: variant, offset: 14935, length: 1, content: 終K47n1506_p0041a20, 大: ''}
+  body: []
+  back: []
+hash: sha256:a3aec8794938139d50e0f02d4d1cee93692fec0257a6e9b1ea3a653cebc0def9

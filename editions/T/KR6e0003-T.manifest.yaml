@@ -1,0 +1,506 @@
+canonical_identifier: bkk:krp/KR6e0003/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0003/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大方廣佛華嚴經搜玄分齊通智方軌
+  identifiers:
+    krp: KR6e0003
+    cbeta: T35n1732
+    cbeta_old_id: T35n1732
+    authorityid: CA0001392
+    json_key: T1732
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T35/T35n1732.xml
+    old_id: T35n1732
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0003_000-T.yaml, hash: 'sha256:d385bb3419479bf22a3ad314dd8c471f94763b0d8fc997b709fb74f5f3ecd4d8'}
+  - {seq: 2, filename: KR6e0003_002-T.yaml, hash: 'sha256:f31813799b2fa02775339e3d1fec7b25d0795613a754fc293e27c9a735dc507a'}
+  - {seq: 3, filename: KR6e0003_003-T.yaml, hash: 'sha256:6fdd93926d131bd08861f14e8ae593e0329ab1e4281c4cbbe051dcfab7be6491'}
+  - {seq: 4, filename: KR6e0003_004-T.yaml, hash: 'sha256:b2c90fdfccc536aa3490ff73058af80cf1444a6ab0befafe81df9af9c601c7e3'}
+  - {seq: 5, filename: KR6e0003_005-T.yaml, hash: 'sha256:42e5d3ac812ecf6856641ea9b2ff4fd00017017ba6108153fdbe896ac4281190'}
+  - {seq: 6, filename: KR6e0003_006-T.yaml, hash: 'sha256:29ed00cd8470f5513dbb66f086694bc21d967149059ebda68ff86eaf628ce369'}
+  - {seq: 7, filename: KR6e0003_007-T.yaml, hash: 'sha256:b60635a411ef9c2ae30bbe1f831c86287e829426d69088bf0df37097a2d8cf76'}
+  - {seq: 8, filename: KR6e0003_008-T.yaml, hash: 'sha256:c0b8f6c5cc5dd13a62f2090f8deb2b76fcffa04f777293a327ed768fb38eee11'}
+  - {seq: 9, filename: KR6e0003_009-T.yaml, hash: 'sha256:146e2e559e907e3bb3782993da224e6ea2b625c51bb747a3b1b7fa00132ca27b'}
+  - {seq: 10, filename: KR6e0003_010-T.yaml, hash: 'sha256:e677bc39887c2905bc641b87c36f61aacb53e8044bb0008cdd6d061e2eead459'}
+  - {seq: 11, filename: KR6e0003_011-T.yaml, hash: 'sha256:d68582cf9bcfe6c4f273dc00f5d2fbd2b2b3bfee90c2b87e8e7b70e48c4b5281'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0003_000-T.markers.yaml, hash: 'sha256:cf841cd93cd1ba4896d59d4ec90d69c54c946f6b23232ecb1208310bdd9d2189'}
+  - {seq: 2, role: markers, filename: assets/KR6e0003_002-T.markers.yaml, hash: 'sha256:e8da527910fd500943365eb32a88b3efc4b8f3b9ce20d2dad7a094fb9fd6af83'}
+  - {seq: 3, role: markers, filename: assets/KR6e0003_003-T.markers.yaml, hash: 'sha256:4d7b602413c8df79c3a43e24a165438d8f056852d3bb62a1e6d8e005a6394548'}
+  - {seq: 4, role: markers, filename: assets/KR6e0003_004-T.markers.yaml, hash: 'sha256:3a5495b4cba7f09878b15861efd42ecfc8b1be9e865d4d5d6cea1800dd31901b'}
+  - {seq: 5, role: markers, filename: assets/KR6e0003_005-T.markers.yaml, hash: 'sha256:6a6f963421dd762417ed4870ddc36f1802bfb8a0333bd07fe5fd60e260c74bdd'}
+  - {seq: 6, role: markers, filename: assets/KR6e0003_006-T.markers.yaml, hash: 'sha256:6e9464fa5e89148dca925c1014584f5867a22de598931f896ef0ff23dcb02beb'}
+  - {seq: 7, role: markers, filename: assets/KR6e0003_007-T.markers.yaml, hash: 'sha256:f5876d97cc724e65e71bd0af168c5d5c1c33b6c335a7b93ca57fe24cd12a1563'}
+  - {seq: 8, role: markers, filename: assets/KR6e0003_008-T.markers.yaml, hash: 'sha256:fabd9a818806ff32c9fc00f8deceef4f226e6d25ad6029145f1c2057c6be95fb'}
+  - {seq: 9, role: markers, filename: assets/KR6e0003_009-T.markers.yaml, hash: 'sha256:6ce40182bdcfa18c73e86b4ae701e3067d7a918407993f8ad1527ffdc1fe5383'}
+  - {seq: 10, role: markers, filename: assets/KR6e0003_010-T.markers.yaml, hash: 'sha256:64c4212b5d442e470849f0bcd62b76ce69b96eabb3ff1b911d354fe0af449930'}
+  - {seq: 11, role: markers, filename: assets/KR6e0003_011-T.markers.yaml, hash: 'sha256:5fbcea01960bcb88aaa968cb5d3c08b767f72f5176558d28dd6e2b58c56c65d1'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6e0003_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 12372
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第一之上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0003_T_001a-mulu-1
+    span:
+    - body
+    - 1655
+    - 1655
+  label: 1 世間淨眼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0003_T_001a-mulu-2
+    span:
+    - body
+    - 8467
+    - 8467
+  label: 2 盧舍那佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 13903
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第一之下'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-mulu-1
+    span:
+    - body
+    - 4109
+    - 4109
+  label: 3 普光堂如來名號品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-mulu-2
+    span:
+    - body
+    - 5569
+    - 5569
+  label: 4 四諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-mulu-3
+    span:
+    - body
+    - 5787
+    - 5787
+  label: 5 光明覺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-mulu-4
+    span:
+    - body
+    - 7459
+    - 7459
+  label: 6 明難品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-mulu-5
+    span:
+    - body
+    - 10894
+    - 10894
+  label: 7 淨行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0003_T_001b-mulu-6
+    span:
+    - body
+    - 11761
+    - 11761
+  label: 8 賢首品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 10579
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第二之上'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 9 佛昇須彌頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-2
+    span:
+    - body
+    - 796
+    - 796
+  label: 10 菩薩雲集品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-3
+    span:
+    - body
+    - 1637
+    - 1637
+  label: 11 十住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-4
+    span:
+    - body
+    - 3928
+    - 3928
+  label: 12 梵行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-5
+    span:
+    - body
+    - 4814
+    - 4814
+  label: 13 發心功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-6
+    span:
+    - body
+    - 5515
+    - 5515
+  label: 14 明法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-7
+    span:
+    - body
+    - 6690
+    - 6690
+  label: 15 佛昇夜摩天自在品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-8
+    span:
+    - body
+    - 7126
+    - 7126
+  label: 16 菩薩說偈品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0003_T_002a-mulu-9
+    span:
+    - body
+    - 7896
+    - 7896
+  label: 17 功德華聚菩薩十行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0003_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 11046
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第二之下'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0003_T_002b-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 18 菩薩十無盡藏品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0003_T_002b-mulu-2
+    span:
+    - body
+    - 1578
+    - 1578
+  label: 19 佛昇兜率天宮一切寶殿品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0003_T_002b-mulu-3
+    span:
+    - body
+    - 2904
+    - 2904
+  label: 20 兜率天宮菩薩雲集讚佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0003_T_002b-mulu-4
+    span:
+    - body
+    - 3612
+    - 3612
+  label: 21 金剛幢菩薩迴向品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0003_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 15226
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第三之上'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0003_T_003a-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 22 十地品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0003_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 14891
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第三之下'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-juan-start
+    span:
+    - body
+    - 0
+    - 11735
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第四之上'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-1
+    span:
+    - body
+    - 5386
+    - 5386
+  label: 23 十明品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-2
+    span:
+    - body
+    - 7257
+    - 7257
+  label: 24 十忍品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-3
+    span:
+    - body
+    - 8205
+    - 8205
+  label: 25 阿僧祇品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-4
+    span:
+    - body
+    - 8858
+    - 8858
+  label: 26 壽命品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-5
+    span:
+    - body
+    - 9009
+    - 9009
+  label: 27 菩薩住處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-6
+    span:
+    - body
+    - 9110
+    - 9110
+  label: 28 佛不思議法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0003_T_004a-mulu-7
+    span:
+    - body
+    - 11435
+    - 11435
+  label: 29 如來相海品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0003_T_004b-juan-start
+    span:
+    - body
+    - 0
+    - 13337
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第四之下'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0003_T_004b-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 30 佛小相光明功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0003_T_004b-mulu-2
+    span:
+    - body
+    - 838
+    - 838
+  label: 31 普賢菩薩行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0003_T_004b-mulu-3
+    span:
+    - body
+    - 2062
+    - 2062
+  label: 32 寶王如來性起品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0003_T_004b-mulu-4
+    span:
+    - body
+    - 5789
+    - 5789
+  label: 33 離世間品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0003_T_005a-juan-start
+    span:
+    - body
+    - 0
+    - 13989
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第五之上'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0003_T_005a-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 34 入法界品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6e0003_T_005b-juan-start
+    span:
+    - body
+    - 0
+    - 12240
+  label: '大方廣佛華嚴經搜玄分齊通智
+
+    方軌卷第五之下'
+  type: juan
+  level: 1
+hash: sha256:5d819da4c88b629c0b87ec018f182a7c7eb2c60dc80e6a895858f905e5b2be6f
